@@ -9,9 +9,10 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 **Environment:** https://courses-presta-prod.visuality.pl/index.php
 
 **Steps to reproduce:**
-1. Scroll down in the homepage until the "Subscribe" field is visible
+1. Scroll down in the homepage until the "Subscribe" field is visible.
 2. Select the "Subscribe" field.
 3. Introduce an invalid e-mail.
+4. Click on the "Subscribe" button.
 
 **Expected behaviour:** Displays an error message that the address email is invalid.
 
