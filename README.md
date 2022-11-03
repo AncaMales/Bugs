@@ -13,9 +13,9 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 2. Select the "Subscribe" field.
 3. Introduce an invalid e-mail.
 
-**Expected behaviour:** Display an error message that the address email is invalid.
+**Expected behaviour:** Displays an error message that the address email is invalid.
 
-**Actual behaviour:** The field accepts any combination of words that looks like an email.
+**Actual behaviour:** The field accepts any combination of words that looks like an email and displays the message "You have successfully subscribed to this newsletter."
 
 **Priority:** P2
 
