@@ -117,5 +117,37 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 **Repro-rate:** 10/10
 
 ![subject cannot be sel](https://user-images.githubusercontent.com/117184407/200003499-84b59689-1457-4e81-9a80-1e158144c837.png)
+---
+
+#### "Payment" is not functional
+**Description**  In the "Payment" step from the "Proceed to checkout", there is no payment method available.
+
+**Affected version:**  My store 2.0
+
+**Environment:** https://courses-presta-prod.visuality.pl/index.php
+
+**Steps to reproduce:**
+1. Add one item in the cart.
+2. Click on the "Proceed to checkout" button.
+3. Repeat step 2.
+4. Insert the email in the "Email" field and the password in the "Password" field.
+5. Click on the "Continue" button. 
+6. Repeat step 5.
+7. Choose a shipping method.
+8. Repeat step 5. 
+9. The "Payment" step is displayed
+
+**Expected behaviour:** In the "Payment" step from the "Proceed to checkout" are displayed payment methods. 
+
+**Actual behaviour:** In the "Payment" step from the "Proceed to checkout", there is no payment method available and the user cannot make the payment.
+
+**Priority:** P1
+
+**Severity:** Major
+
+**Repro-rate:** 10/10
+
+![Payment method](https://user-images.githubusercontent.com/117184407/200046592-5eabf20b-0ae1-433e-b2e7-6c472049c750.png)
+
 
 
