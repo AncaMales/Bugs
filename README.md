@@ -148,6 +148,28 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 **Repro-rate:** 10/10
 
 ![Payment method](https://user-images.githubusercontent.com/117184407/200046592-5eabf20b-0ae1-433e-b2e7-6c472049c750.png)
+----
+#### "Hummingbird Printed T-shirt" description product
+**Description**  The first row from the "Hummingbird Printed T-shirt" product description is in a very light grey and it can't be read. 
+
+**Affected version:**  My store 2.0
+
+**Environment:** https://courses-presta-prod.visuality.pl/index.php
+
+**Steps to reproduce:**
+1. Click on the "Hummingbird Printed T-shirt" product from the "Popular Product" section (My Store homepage).
+2. Scroll down until the "Description".
+
+**Expected behaviour:** The description of the "Hummingbird Printed T-shirt" is in black color and it can be read. 
+
+**Actual behaviour:** The "Hummingbird Printed T-shirt" product has the first row from the product description in a very light grey and it cannot be read.
+
+**Priority:** P2
+
+**Severity:** Medium
+
+**Repro-rate:** 10/10
+
 
 
 
