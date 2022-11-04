@@ -94,5 +94,28 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 **Repro-rate:** 10/10
 
 ![store info](https://user-images.githubusercontent.com/117184407/199990077-9dd367ae-25ca-4dee-b4a1-de02dedf8813.png)
+#
+#### "Subject" field - the subject cannot be selected
+**Description**  When the user clicks on the "Subject" field from the "Contact us" page, the drop down list doesn't open and the subject cannot be selected.
+
+**Affected version:**  My store 2.0
+
+**Environment:** https://courses-presta-prod.visuality.pl/index.php
+
+**Steps to reproduce:**
+1. Press on the "Contact us" button (top-left) from the My Store homepage.
+2. Click on the "Subject" field.
+
+**Expected behaviour:** When the user clicks on the "Subject" field it displays a drop down list and the subject can be selected successfully.
+
+**Actual behaviour:** When the user clicks on the "Subject" field the drop down list doesn't open and the subject cannot be selected.
+
+**Priority:** P2
+
+**Severity:** Medium
+
+**Repro-rate:** 10/10
+
+![subject cannot be sel](https://user-images.githubusercontent.com/117184407/200003499-84b59689-1457-4e81-9a80-1e158144c837.png)
 
 
