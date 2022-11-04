@@ -72,5 +72,27 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 
 ![20 off banner](https://user-images.githubusercontent.com/117184407/199985750-b1b29040-56ce-4c9d-8f3f-a6aaf4897da8.png)
 ![20 off](https://user-images.githubusercontent.com/117184407/199985765-3ba37967-d353-449c-a600-98b99fda1f16.png)
+#
+#### The Store Information section is incomplete
+**Description**  The "Store Information" from the bottom-right of the home page doesn't have a complete address, it displays just the country.
+
+**Affected version:**  My store 2.0
+
+**Environment:** https://courses-presta-prod.visuality.pl/index.php
+
+**Steps to reproduce:**
+1. On the My Store homepage, scroll down until the "The "Store information" section is visible.
+
+**Expected behaviour:** The "Store information" section displays the complete address.
+
+**Actual behaviour:** The "Store information" section displays only the country.
+
+**Priority:** P2
+
+**Severity:** Medium
+
+**Repro-rate:** 10/10
+
+![store info](https://user-images.githubusercontent.com/117184407/199990077-9dd367ae-25ca-4dee-b4a1-de02dedf8813.png)
 
 
