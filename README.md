@@ -170,6 +170,9 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 
 **Repro-rate:** 10/10
 
+![Hummingbird Product description](https://user-images.githubusercontent.com/117184407/200056459-e5185bac-e3fb-4eb6-bb35-40b99194d2e0.png)
+
+
 
 
 
