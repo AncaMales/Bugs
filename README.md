@@ -249,7 +249,33 @@ In this repository are some of the Defect Reports (Bugs) that I wrote while doin
 ![Twitter button](https://user-images.githubusercontent.com/117184407/200110032-ff2c87d4-902d-46f5-a579-c2d579c83bb4.png)
 
 ![Unavailable page](https://user-images.githubusercontent.com/117184407/200110037-6d579e1e-f953-42dd-9d24-e5a3019f96a7.png)
+-----
 
+#### "Pack Mug + Framed Poster" product no description available
+
+**Description**  The "Pack Mug + Framed Poster" product page has no description.
+
+**Affected version:**  My store 2.0
+
+**Environment:** https://courses-presta-prod.visuality.pl/index.php
+
+**Steps to reproduce:**
+
+1. Click on the "Accessories" button from the homepage.
+2. Select The "Pack Mug + Framed Poster" product.
+3. Inspect the product description.
+
+**Expected behaviour:** The "Pack Mug + Framed Poster" product page displays the complete description.
+
+**Actual behaviour:** The "Pack Mug + Framed Poster" product page has no description, it only displays the "Product details". 
+
+**Priority:** P2
+
+**Severity:** Medium
+
+**Repro-rate:** 10/10
+
+![product details site](https://user-images.githubusercontent.com/117184407/200110493-e8e28ef6-f13a-4e22-b19a-da6884aadd35.png)
 
 
 
