@@ -150,6 +150,7 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 ![Payment method](https://user-images.githubusercontent.com/117184407/200046592-5eabf20b-0ae1-433e-b2e7-6c472049c750.png)
 ----
 #### "Hummingbird Printed T-shirt" description product
+
 **Description**  The first row from the "Hummingbird Printed T-shirt" product description is in a very light grey and it can't be read. 
 
 **Affected version:**  My store 2.0
@@ -171,6 +172,29 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 **Repro-rate:** 10/10
 
 ![Hummingbird Product description](https://user-images.githubusercontent.com/117184407/200056459-e5185bac-e3fb-4eb6-bb35-40b99194d2e0.png)
+----
+
+#### Logo is covering the description
+**Description**  The t-shirt logo from the "Clothes" page's banner is covering the text from the banner.
+
+**Affected version:**  My store 2.0
+
+**Environment:** https://courses-presta-prod.visuality.pl/index.php
+
+**Steps to reproduce:**
+1. Click on the "Clothes" button from the homepage.
+
+**Expected behaviour:** The t-shirt logo is not covering the text from the banner, all the elements are positioned as per bussiness requirements. 
+
+**Actual behaviour:** The t-shirt logo from the "Clothes" page's banner is covering the text from the banner.
+
+**Priority:** P3
+
+**Severity:** Minor
+
+**Repro-rate:** 10/10
+
+![clothes banner site](https://user-images.githubusercontent.com/117184407/200107148-91507a35-66f7-4a5c-96a3-833d915caf80.png)
 
 
 
