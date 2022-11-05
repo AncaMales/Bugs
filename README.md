@@ -220,6 +220,35 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 **Repro-rate:** 10/10
 
 ![hummingbird twice](https://user-images.githubusercontent.com/117184407/200108405-7f620fcc-2c72-4f08-8219-941f2ccbf511.png)
+-------------
+
+#### "The best is yet to come" twitter button not functioning
+
+**Description**  The twitter button from "The best is yet to come" framed poster is not functioning, when it's clicked it displays an unavailable page. 
+
+**Affected version:**  My store 2.0
+
+**Environment:** https://courses-presta-prod.visuality.pl/index.php
+
+**Steps to reproduce:**
+
+1. Click on the "Art" button from the homepage.
+2. Click on the "The best is yet to come" framed poster.
+3. Click on the "Twitter" button next to "Share".
+
+**Expected behaviour:** The twitter button from "The best is yet to come" framed poster is functioning and the user can share the product on his twitter account.
+
+**Actual behaviour:** The twitter button from "The best is yet to come" framed poster is not functioning, when it's clicked it displays an unavailable page. 
+
+**Priority:** P2
+
+**Severity:** Medium
+
+**Repro-rate:** 10/10
+
+![Twitter button](https://user-images.githubusercontent.com/117184407/200110032-ff2c87d4-902d-46f5-a579-c2d579c83bb4.png)
+
+![Unavailable page](https://user-images.githubusercontent.com/117184407/200110037-6d579e1e-f953-42dd-9d24-e5a3019f96a7.png)
 
 
 
