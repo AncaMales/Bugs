@@ -1,5 +1,5 @@
 # Bugs
-In this repository are Defect Reports (Bugs) that I wrote while doing the course at Manual Tester Course (Coderslab-eJobs Group) and are imported from JIRA.
+In this repository are some of the Defect Reports (Bugs) that I wrote while doing the course at Manual Tester Course (Coderslab-eJobs Group) and are imported from JIRA.
 #
 #### "Subscribe" field accepts invalid format of email address
 **Description**  When the user introduces an invalid format of email address in the "Subscribe" field and clicks on the "Subscribe" button, the email address is accepted. (example: abcdef@abcdef.com)
