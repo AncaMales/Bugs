@@ -196,6 +196,31 @@ In this repository are Defect Reports (Bugs) that I wrote while doing the course
 
 ![clothes banner site](https://user-images.githubusercontent.com/117184407/200107148-91507a35-66f7-4a5c-96a3-833d915caf80.png)
 
+#### "Hummingbird Cushion" is displayed twice
+
+**Description**  The "Hummingbird Cushion" product is displayed twice, the second one has the title "Copy of Hummingbird Cushion".
+
+**Affected version:**  My store 2.0
+
+**Environment:** https://courses-presta-prod.visuality.pl/index.php
+
+**Steps to reproduce:**
+
+1. Click on the "Accessories" button from the homepage
+2. Scroll down to the the "Copy of the Hummingbird Cushion"
+
+**Expected behaviour:** The "Hummingbird Cushion" product is displayed once.
+
+**Actual behaviour:** The "Hummingbird Cushion" is displayed twice, the second one has the title "Copy of Hummingbird Cushion".
+
+**Priority:** P2
+
+**Severity:** Medium
+
+**Repro-rate:** 10/10
+
+![hummingbird twice](https://user-images.githubusercontent.com/117184407/200108405-7f620fcc-2c72-4f08-8219-941f2ccbf511.png)
+
 
 
 
