@@ -273,7 +273,7 @@ In this repository are some of the Defect Reports (Bugs) that I wrote while doin
 
 **Severity:** Medium
 
-**Repro-rate:** 
+**Repro-rate:** 10/10
 
 ![product details site](https://user-images.githubusercontent.com/117184407/200110493-e8e28ef6-f13a-4e22-b19a-da6884aadd35.png)
 
